@@ -39,7 +39,7 @@ Membandingkan hasil yang diperoleh dari kedua algoritma berdasarkan:
 - Menginterpretasikan pola-pola asosiasi yang ditemukan, mengidentifikasi waktu-waktu rawan, lokasi berisiko tinggi, serta keterkaitan jenis kejahatan dengan faktor spasial dan temporal.
 - Menyimpulkan hasil analisis dan memberikan rekomendasi strategis untuk pencegahan dan penanganan kejahatan di masa depan berbasis data.
 
-# 3 Pola-Pola Teratas yang Dihasilkan
+# 📊 3 Pola-Pola Teratas yang Dihasilkan
 - Apriori:
   1. Jika terjadi kasus kriminalitas berupa penggunaan narkotika, maka itu terjadi pada bulan April dan terjadi penangkapan pada pelaku
   2. Jika terjadi kasus kriminalitas berupa kecanduan narkotika pada bulan april, maka pelaku tersebut ditangkap
