@@ -6,7 +6,7 @@
 4. Alya' Hikmatul Rizkia (23031554229)
 
 # **Deskripsi Proyek**
-Proyek ini berfokus pada analisa pola kriminalitas berdasarkan data spasial dan temporal menggunakan teknik Association Rule Mining dengan algoritma Apriori dan FP-Growth. Proyek ini juga bertujuan untuk membantu pihak berwenang untuk mengenali pola-pola kriminalitas berdasarkan lokasi dan waktu, serta memberikan wawasan mengenai efektivitas algoritma Apriori dan FP-Growth dalam membuat pola.
+Melakukan analisa pola kriminalitas dengan menggunakan Association Rule Mining (ARM) dengan menggunakan algoritma Apriori dan FP-Growth. Tujuannya untuk membantu pihak berwenang untuk mengenali pola-pola kriminalitas berdasarkan lokasi dan waktu, serta memberikan wawasan mengenai efektivitas algoritma Apriori dan FP-Growth dalam membuat pola.
 
 # **Tools yang Digunakan**
 1. Python
